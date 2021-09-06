@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">User Github</string>
+
+    <string name="text_following">Following</string>
+    <string name="text_follower">Follower</string>
+    <string name="text_repository">Repository</string>
+
+    <string name="main_item_settings">Settings</string>
+    <string name="main_item_notifications">Notification</string>
+    <string name="main_item_favorite">Favorite</string>
+
+    <string name="main_search_username">Search User Github</string>
+
+    <string name="text_nodata">No data</string>
+
+    <string name="snackbar_deleted">Deleted from Favorite</string>
+    <string name="snackbar_added">Added to Favorite</string>
+
+    <string name="favorite_text_title">Favorite User</string>
+
+    <string name="notifications_text_title">Notifications</string>
+
+    <string name="alarm_daily_reminder_message">We\'re missing you!</string>
+    <string name="rem_info">9am Reminder</string>
+    <string name="reminder">Daily Reminder</string>
+    <string name="reminder_message">This is your daily reminder to open app^_^</string>
+    <string name="switch_daily_on"> Daily Reminder Enabled</string>
+    <string name="switch_daily_off">Daily Reminder Disabled</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_menu_settings"> Alarm Settings</string>
+    <string name="change_language_settings">Language Settings</string>
+
+    <string name="about">About</string>
+    <string name="name_me">Muhammad Ichsan Razan</string>
+    <string name="email_me">ichsanrazan33@gmail.com</string>
+    <string name="check_instagram">Check Instagram</string>
+    <string name="work_in">Work in</string>
+    <string name="location">Location</string>
+</resources>

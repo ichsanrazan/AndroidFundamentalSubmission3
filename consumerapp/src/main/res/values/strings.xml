@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Consumer App</string>
+
+    <string name="text_following">Following</string>
+    <string name="text_follower">Follower</string>
+    <string name="text_repository">Repository</string>
+    <string name="text_nodata">No data</string>
+
+    <string name="about">About</string>
+    <string name="name_me">Muhammad Ichsan Razan</string>
+    <string name="email_me">ichsanrazan33@gmail.com</string>
+    <string name="check_instagram">Cek Instagram</string>
+    <string name="change_language_settings">Language Settings</string>
+
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActivityAbout" android:orientation="vertical">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/img_item_photo"
+        android:layout_marginTop="90dp"
+        android:layout_marginBottom="16dp"
+        android:layout_width="160dp"
+        android:layout_height="160dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@android:color/darker_gray"/>
+    <TextView
+        android:text="@string/name_me"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="@string/email_me"
+        android:textColor="@android:color/black"
+        android:textSize="17sp"
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageButton
+        android:id="@+id/btn_instagram"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_margin="9dp"
+        android:layout_gravity="center"
+
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/logo_instagram"
+        android:text="@string/check_instagram"
+        android:textAlignment="center" />
+
+    <ImageButton
+        android:id="@+id/btn_linkedin"
+        android:layout_width="70dp"
+        android:layout_height="65dp"
+        android:layout_margin="9dp"
+        android:layout_gravity="center"
+
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@drawable/logo_linkedin"
+        android:text="@string/check_instagram"
+        android:textAlignment="center" />
+
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="app_name">User Github</string>
+
+    <string name="text_following">Mengikuti</string>
+    <string name="text_follower">Pengikut</string>
+    <string name="text_repository">Repositori</string>
+
+    <string name="main_item_settings">Pengaturan</string>
+    <string name="main_item_notifications">Notifikasi</string>
+    <string name="main_item_favorite">Favorite</string>
+
+    <string name="main_search_username">Cari User Github</string>
+
+    <string name="text_nodata">Kosong</string>
+
+    <string name="snackbar_deleted">Dihapus dari favorite</string>
+    <string name="snackbar_added">Dimasukkan ke favorite</string>
+
+    <string name="favorite_text_title">User Favorite</string>
+
+    <string name="notifications_text_title">Notifikasi</string>
+
+    <string name="alarm_daily_reminder_message">Kami kangen kamu</string>
+    <string name="rem_info">Pengingat jam 9 pagi</string>
+    <string name="reminder">Pengingat Harian</string>
+    <string name="reminder_message">Ini pengingat harian mu untuk membuka aplikasi</string>
+    <string name="switch_daily_on">Pengingat harian dinyalakan</string>
+    <string name="switch_daily_off">Pengingat harian dimatikan</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_menu_settings"> Pengaturan Alarm</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+
+    <string name="about">Tentang</string>
+    <string name="name_me">Muhammad Ichsan Razan</string>
+    <string name="email_me">ichsanrazan33@gmail.com</string>
+    <string name="check_instagram">Cek Instagram</string>
+    <string name="work_in">Work in</string>
+    <string name="location">Location</string>
+
+</resources>
